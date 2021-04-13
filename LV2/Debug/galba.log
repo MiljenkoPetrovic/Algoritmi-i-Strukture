@@ -1,0 +1,20 @@
+﻿  Source.c
+C:\Users\Mimo\source\repos\galba\galba\Source.c(24,34): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(44,20): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(50,33): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(52,24): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(56,17): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(70,12): warning C4477: 'printf' : format string '% d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(70,12): message : consider using '%lld' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(70,12): message : consider using '%I64d' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(112,16): warning C4477: 'printf' : format string '% d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(112,16): message : consider using '%lld' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(112,16): message : consider using '%I64d' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(78,9): warning C4101: 'num': unreferenced local variable
+C:\Users\Mimo\source\repos\galba\galba\Source.c(151,12): warning C4477: 'printf' : format string '% d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(151,12): message : consider using '%lld' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(151,12): message : consider using '%I64d' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(183,12): warning C4477: 'printf' : format string '% d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+C:\Users\Mimo\source\repos\galba\galba\Source.c(183,12): message : consider using '%lld' in the format string
+C:\Users\Mimo\source\repos\galba\galba\Source.c(183,12): message : consider using '%I64d' in the format string
+  galba.vcxproj -> C:\Users\Mimo\source\repos\galba\Debug\galba.exe
